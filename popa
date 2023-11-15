@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>котики любимые</title>
+    <link rel="shortcut icon" href="assets/img/austrian aestetic.png" type="image/png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+    <body>
+        <header class="header">
+            <section class="header_container">
+                <nav class="nav">
+                    <div class="logo">
+                        <a href="index.html">
+                            <img src="assets/img/logo.png" alt="logo">
+                        </a>
+                    </div>
+                    <div class="nav_buttons">
+                        <div class="shop">
+                            <button class="nav_button shop-link">Магазин</button>
+                        </div>
+                        <div class="catalog">
+                            <button class="nav_button catalog-link">Каталог</button>
+                        </div>
+                        <div class="feedback">
+                            <button class="nav_button feedback-link">Отзывы</button>
+                        </div>
+                    </div>
+                    <div class="order_button">
+                        <button class="order">Заказать</button>
+                    </div>
+                </nav>
+                <section class="title_header">
+                    <h1>Аксессуары для котов<br>
+                        Коллекция FW15</h1>
+                </section>
+            </section>
+        </header>
+    </body>
+
+</html>
